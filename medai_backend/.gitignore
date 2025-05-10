@@ -5,7 +5,7 @@ __pycache__/
 *.pyd
 
 # Virtual environment
-.venv/
+.venv310/
 venv/
 ENV/
 env/
@@ -28,3 +28,6 @@ build/
 # OS files
 Thumbs.db
 .DS_Store
+
+data/
+preprocessed/
